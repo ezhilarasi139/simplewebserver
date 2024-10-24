@@ -84,7 +84,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![alt text](<SIMPLE WEBSERVER.png>)
+![image](https://github.com/user-attachments/assets/d20623c8-9379-4374-994f-c6151d14915a)
+
 
 
 ## RESULT:
